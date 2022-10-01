@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "MegaStyles.TeamFortress2Avatars",
+      "title": "Team Fortress 2 Avatars",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "MegaStyles",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.4-1649",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:5",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:6",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:7",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Engineer",
+      "title": "Engineer",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "5f63b3cc2e8152448927e7f0b77d9ceb",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "01c06eb9ea7758e42b59ed92bb42acff"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Heavy",
+      "title": "Heavy",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "1990f41943c46c64dbbc4e037f215377",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "7328258214dfe9b4d92e87a3b06ebec6"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Medic",
+      "title": "Medic",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "fcff7dc762a3dff4f8a03445ac2af64e",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "759ce176da2caa74fb56567168c1d97e"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:5": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Pyro",
+      "title": "Pyro",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "e2594ad2a6c34f445ad9eda5afeb9753",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "1244e46fe66c99d428c3af109465c88d"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:6": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Scout",
+      "title": "Scout",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "c4a0e6e26c4b1684ab6017cbec44add3",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "1d7a8c7167ceed040bb0e915c21a9008"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:7": {
+      "barcode": "MegaStyles.TeamFortress2Avatars.Avatar.Soldier",
+      "title": "Soldier",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "fc798c631d1228347a2d5fb478a1d3a3",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "9e1f3c65ad4822e4dbabf7f335269393"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.AvatarCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
